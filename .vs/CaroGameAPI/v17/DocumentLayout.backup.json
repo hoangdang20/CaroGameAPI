@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\controllers\\rankingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\controllers\\rankingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\controllers\\movescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\controllers\\movescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\controllers\\gamematchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\controllers\\gamematchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\data\\gamematches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\data\\gamematches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\data\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\data\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\data\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\data\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|d:\\data\\net_core\\projects\\carogameapi\\carogameapi\\data\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8313D410-53E1-460A-8201-94C3B3CB9FF3}|CaroGameAPI\\CaroGameAPI.csproj|solutionrelative:carogameapi\\data\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Program.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Program.cs",
+              "RelativeToolTip": "CaroGameAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:33:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankingsController.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\RankingsController.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Controllers\\RankingsController.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\RankingsController.cs",
+              "RelativeToolTip": "CaroGameAPI\\Controllers\\RankingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:32:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovesController.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\MovesController.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Controllers\\MovesController.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\MovesController.cs",
+              "RelativeToolTip": "CaroGameAPI\\Controllers\\MovesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:31:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CaroGameAPI\\appsettings.json",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\appsettings.json",
+              "RelativeToolTip": "CaroGameAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T06:53:11.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameMatchesController.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\GameMatchesController.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Controllers\\GameMatchesController.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\GameMatchesController.cs",
+              "RelativeToolTip": "CaroGameAPI\\Controllers\\GameMatchesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:31:03.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Users.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Data\\Users.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Users.cs",
+              "RelativeToolTip": "CaroGameAPI\\Data\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:02:55.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "CaroGameAPI\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:30:11.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CaroGameAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:28:23.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Moves.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Moves.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Data\\Moves.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Moves.cs",
+              "RelativeToolTip": "CaroGameAPI\\Data\\Moves.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:07:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ranking.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Ranking.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Data\\Ranking.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Ranking.cs",
+              "RelativeToolTip": "CaroGameAPI\\Data\\Ranking.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:07:30.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameMatches.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\GameMatches.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Data\\GameMatches.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\GameMatches.cs",
+              "RelativeToolTip": "CaroGameAPI\\Data\\GameMatches.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:06:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Rooms.cs",
+              "RelativeDocumentMoniker": "CaroGameAPI\\Data\\Rooms.cs",
+              "ToolTip": "D:\\Data\\NET_Core\\Projects\\CaroGameAPI\\CaroGameAPI\\Data\\Rooms.cs",
+              "RelativeToolTip": "CaroGameAPI\\Data\\Rooms.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:04:51.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
